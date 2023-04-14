@@ -12,3 +12,8 @@ Features:
 -> A proxy checker to check the scraped proxies
 
 Leave a star if you like it!
+
+
+Update one
+-> Added more proxy sources
+-> Made the checking faster
