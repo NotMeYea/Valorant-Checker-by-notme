@@ -3,7 +3,7 @@ The newest selfmade valorant checker BY MEEEEEEE
 
 
 This is the newest checker you will find, but because of the file size limit on github
-Here is the link: https://gofile.io/d/Ov5g8j
+Here is the link: https://gofile.io/d/MuA4uX
 
 Features:
 -> A brute option that only checks if the user:pass is valid
