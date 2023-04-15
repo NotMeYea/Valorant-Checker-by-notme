@@ -13,6 +13,8 @@ Features:
 
 Leave a star if you like it!
 
+Previeuw: ![image](https://user-images.githubusercontent.com/85237080/232247958-d554f6b5-4819-4beb-b717-93e231afc5ab.png)
+
 
 Update one
 -> Added more proxy sources
